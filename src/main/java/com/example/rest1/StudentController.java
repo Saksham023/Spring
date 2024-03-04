@@ -30,6 +30,7 @@ public class StudentController {
 //            System.out.println(s.getFirstName());
 //        }
         student.setSchool(school);
+//        student.setSchool(school);
 
         return student;
     }
